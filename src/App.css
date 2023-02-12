@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+  column-gap: 10px;
+}
+
+.App > * {
+  flex: 1;
+}
